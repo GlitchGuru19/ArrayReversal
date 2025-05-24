@@ -1,0 +1,14 @@
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\bin\Debug\net8.0\ArrayReversal.exe
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\bin\Debug\net8.0\ArrayReversal.deps.json
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\bin\Debug\net8.0\ArrayReversal.runtimeconfig.json
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\bin\Debug\net8.0\ArrayReversal.dll
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\bin\Debug\net8.0\ArrayReversal.pdb
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.AssemblyInfoInputs.cache
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.AssemblyInfo.cs
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.csproj.CoreCompileInputs.cache
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.dll
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\refint\ArrayReversal.dll
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.pdb
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ArrayReversal.genruntimeconfig.cache
+D:\Everything C#\C# lessons 2, 8hours\ArrayReversal\obj\Debug\net8.0\ref\ArrayReversal.dll
