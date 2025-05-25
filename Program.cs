@@ -3,13 +3,31 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int[] numbers = new int[]
-        {
-            0,1,2,3,4,5
-        };
+        int length = 5;
+        //Declare an array of 5 numbers
+        int[] numbers = new int [length];
 
+        //Get input from the user
+        Console.WriteLine("Enter 5 numbers:");
+        for (int i = 0; i < length; i++)
+        {
+            Console.Write($"Number {i + 1}: ");
+            numbers[i] = Convert.ToInt32(Console.ReadLine());
+        }
+
+        //Print the original array
+        Console.WriteLine("Original array:");
+        foreach (int number in numbers)
+        {
+            Console.Write($"{number} ");
+        }
+        Console.WriteLine();
+
+        //Reverse the array
         Array.Reverse(numbers);
 
+        //Print the reversed array
+        Console.WriteLine("Reversed array:");
         foreach (int number in numbers)
         {
             Console.Write($"{number} ");
