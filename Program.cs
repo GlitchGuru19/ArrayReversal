@@ -33,6 +33,11 @@ internal class Program
             Console.Write($"{number} ");
         }
 
+        for (int i = 0; i < 3; i++)
+        {
+            Console.WriteLine("Save the streak");
+        }
+
         Console.ReadLine();
     }
 }
